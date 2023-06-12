@@ -1,0 +1,9 @@
+* asdf-manager
+
+Download and manage ASDF versions
+
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/roswell/asdf-manager.git |
+| commit  | 7b342c3                                         |
+| systems | asdf-manager                                    |
+|---------+-------------------------------------------------|
